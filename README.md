@@ -31,6 +31,7 @@ This will give us a general idea of what to expect during the main vacation seas
 ## Summary
 ---
 
+### Temperature
 | June | December |
 |------------------------|------------------------|
 |           ![june_temps](https://github.com/carloshgalvan95/surfs_up/blob/main/Resources/june_temp.jpg)            |               ![dec_temps](https://github.com/carloshgalvan95/surfs_up/blob/main/Resources/dec_temp.jpg)         |
@@ -38,6 +39,7 @@ This will give us a general idea of what to expect during the main vacation seas
 
 To sum it up. As observed on the plot above, the temperatures have almost a normal distribution with minimum variation between seasons. The fluctuation we see is within a couple of degrees from day to day, making it easy to predict exactly how the weather is going to be the next day or even the next month and we rarely see temperatures that won't be suitable for surfing with a side of ice cream.
 
+### Precipitation
 | June | December |
 |------------------------|------------------------|
 |           ![june_prcp](https://github.com/carloshgalvan95/surfs_up/blob/main/Resources/june_prcp.jpg)            |               ![dec_prcp](https://github.com/carloshgalvan95/surfs_up/blob/main/Resources/dec_prcp.jpg)         |
